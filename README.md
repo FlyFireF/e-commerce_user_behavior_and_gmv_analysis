@@ -29,9 +29,8 @@ ec_project/
 │   ├── conversion_analysis.py      # Funnel analysis + logistic regression (2 charts)
 │   ├── association_rules.py        # Apriori market basket analysis (2 charts)
 │   └── visualization.py            # Summary dashboard (1 dashboard)
-├── figures/                        # Generated charts (PNG)
-└── reports/
-    └── analysis_report.md          # Analysis report template
+└── figures/                        # Generated charts (PNG)
+
 ```
 
 ## Quick Start
