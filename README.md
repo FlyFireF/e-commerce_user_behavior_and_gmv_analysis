@@ -1,5 +1,6 @@
 # E-commerce User Behavior & GMV Analysis
 
+[简体中文](./README_CN.md)
 A complete data analysis pipeline for e-commerce user behavior data: from raw CSV ingestion to business insights.
 
 **Dataset**: [eCommerce Behavior Data from Multi Category Store](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store) (Kaggle)  
@@ -11,6 +12,7 @@ A complete data analysis pipeline for e-commerce user behavior data: from raw CS
 ```
 ec_project/
 ├── README.md
+├── README_CN.md
 ├── requirements.txt
 ├── data/                           # Raw CSV files (download separately)
 │   ├── 2019-Oct.csv
