@@ -29,9 +29,8 @@ ec_project/
 │   ├── conversion_analysis.py      # 漏斗分析 + 逻辑回归归因（2张图表）
 │   ├── association_rules.py        # Apriori关联规则挖掘（2张图表）
 │   └── visualization.py            # 综合仪表盘（1张看板）
-├── figures/                        # 生成的图表（PNG）
-└── reports/
-    └── analysis_report.md          # 分析报告模板
+└── figures/                        # 生成的图表（PNG）
+
 ```
 
 ## 快速开始
