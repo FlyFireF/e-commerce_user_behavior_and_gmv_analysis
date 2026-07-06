@@ -1,6 +1,6 @@
 # 电商用户行为与GMV数据分析
 
-[English](./README.MD)
+[English](./README.md)
 
 从原始CSV到业务洞察的完整数据分析流水线。
 
