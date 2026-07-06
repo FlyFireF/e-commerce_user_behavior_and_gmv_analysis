@@ -1,5 +1,7 @@
 # 电商用户行为与GMV数据分析
 
+[English](./README.MD)
+
 从原始CSV到业务洞察的完整数据分析流水线。
 
 **数据集**：[eCommerce Behavior Data from Multi Category Store](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)（Kaggle）  
